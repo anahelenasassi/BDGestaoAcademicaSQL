@@ -1,10 +1,10 @@
 Participantes:
 - Ana Helena Sassi Meinschmiedt
-- Alessandra Conceição Santiago Guimarães
-- Brenda Flávia de Azeredo
-- Enzo de Arruda Santos Scalassara
-- Michael Santana
-- Thomaz Melo Cruz Neto
+- Alessandra Conceição Santiago Guimarães (https://github.com/acsguimaraes)
+- Brenda Flávia de Azeredo (https://github.com/brendafazeredo)
+- Enzo de Arruda Santos Scalassara (https://github.com/enzoscalassara)
+- Michael Santana (https://github.com/michaelsantana95)
+- Thomaz Melo Cruz Neto (https://github.com/Thomazmcn)
 
 # BD para Gestão Acadêmica Ensino Fundamental I (1º ao 5º ano)
 ![image](https://github.com/michaelsantana95/BDGestaoAcademicaSQL/assets/114180225/549de362-19b5-4479-8b67-7b41c49be9b3)
